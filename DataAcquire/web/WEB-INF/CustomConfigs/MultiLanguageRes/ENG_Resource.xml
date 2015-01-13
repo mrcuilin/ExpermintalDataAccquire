@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : ENG_Resource.xml
+    Created on : 2008年9月16日, 下午3:09
+    Author     : cuilin
+    Description:
+        Purpose of the document follows.
+-->
+<root>
+    <LanguageName value="ENG" displayText="English(Beta)" />
+    <LanguageRes>
+<Item Ori="登录系统" value="Login System" />
+<Item Ori="用户名" value="User Name" />
+<Item Ori="口令" value="Password" />
+<Item Ori="口　令" value="Password" />
+<Item Ori="记住我的用户名和口令" value="Remember My Name and Password" />
+<Item Ori="登录" value="LOGIN" />
+<Item Ori="新用户注册" value="Signup for new user" />
+<Item Ori="忘记口令了" value="Forgotten Your Password?" />
+<Item Ori="清华大学" value="Tsinghua University" />
+<Item Ori="建议使用 Microsoft IE 6.0及以上版本或 Mozilla Firefox 2.0及以上版本，在1024×768及以上分辨率浏览。" value="Best viewed with Microsoft IE6.0 or Mozilla Firefox 2.0 and more advanced, 1024×768 Resolution is recommended" />
+<Item Ori="语言选择" value="Language" />
+<Item Ori="用户数据" value="User Information" />
+<Item Ori="账号" value="Account" />
+<Item Ori="密码提示问题" value="Question to retrieve the password" />
+<Item Ori="密码提示问题答案" value="Answer to the above question" />
+<Item Ori="添加" value="Add" />
+<Item Ori="找回口令" value="retrieve the password" />
+<Item Ori="第一步" value="step one" />
+<Item Ori="请输入您的账号" value="please enter your account" />
+<Item Ori="若忘记了账号" value="if the account is forgotten" />
+<Item Ori="请输入您的姓名" value="please enter your name" />
+<Item Ori="下一步" value="next" />
+<Item Ori="第二步" value="Step Two" />
+<Item Ori="您的账号" value="your account" />
+<Item Ori="您的口令提示问题" value="your question to retrieve the password" />
+<Item Ori="请输入您的答案" value="please enter your answer" />
+<Item Ori="口令保护问题" value="Password Protection Question" />
+<Item Ori="口令保护答案" value="Password Protection Answer" />
+<Item Ori="" value="" />
+</LanguageRes>
+</root>

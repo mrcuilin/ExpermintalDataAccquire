@@ -1,0 +1,65 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2014-10-22, 14:33:58
+    Author     : cuilin
+*/
+.commonTable {
+    background-color: #C0C0C0;
+}
+
+.commonTable td {
+    background-color: #FFF;
+    font-size: 10pt;
+    font-weight: bold;
+}
+.commonTable tr:not([celltype="Head"]) td:nth-child(odd) {
+    text-align: right;
+    width:20%;
+}
+.commonTable input {
+    background-color: #FFF;
+    font-size: 10pt;
+    width : 95%;
+}
+
+.commonTable tr[ cellType='Head'] td {
+    background-color: #033;
+    color : #FFF;
+    font-size : 12pt;
+    font-weight: bold;
+}
+
+.resultTable {
+    background-color: #C0C0C0;
+}
+
+.resultTable td {
+    background-color: #F0F0F0;
+    font-size: 9pt;
+    font-weight: bold;
+    padding:2px;
+}
+
+
+.resultTable tr:nth-child(even) td {
+    background-color: #F0F0F0;
+}
+.resultTable tr:nth-child(odd) td {
+    background-color: #FFF;
+}
+
+.resultTable tr[ cellType='Head'] td {
+    background-color: #333;
+    color : #EEE;
+    font-size : 9pt;
+    font-weight: bold;
+}
+
+.hilightRow td {
+    background-color : #E0E0F0;
+    cursor : default;
+}

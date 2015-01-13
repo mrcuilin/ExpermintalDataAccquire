@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Document   : SystemConf.xml
+    Created on : 2006年6月23日, 上午9:36
+    Author     : Cuilin
+    Description:
+        Purpose of the document follows.
+-->
+<root>
+    <System-config>
+        <DA485>
+            <Driver>com.mysql.jdbc.Driver</Driver>
+            <ConnectURL>jdbc:mysql://127.0.0.1:3311/dataservice?characterEncoding=utf-8</ConnectURL>
+            <User>root</User>
+            <Password></Password>
+            <InitConnNum>5</InitConnNum>
+            <MaxConnNum>30</MaxConnNum>
+        </DA485>
+        <LoggerConfig>
+            <LogFile>%t/java%g.log</LogFile>
+            <LogFileSize>10000</LogFileSize>
+            <LogFileCount>10</LogFileCount>
+            <LogLevel>1024</LogLevel>
+        </LoggerConfig>
+		<others>
+			<UploadDir>C:/HAZOP/Upload/</UploadDir>
+			<TempDir>D:/Temp</TempDir>
+		</others>
+    </System-config>
+</root>

@@ -1,0 +1,3 @@
+VBGROUP 5.0
+StartupProject=DataAcquire485.vbp
+Project=..\PumpControl\PumpControl.vbp
